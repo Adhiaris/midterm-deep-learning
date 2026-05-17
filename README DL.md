@@ -1,6 +1,7 @@
 # Deep Learning Midterm Projects
-
-A collection of three deep learning notebooks covering **Clustering**, **Regression**, and **Fraud Detection (Classification)**. Each notebook applies end-to-end deep learning pipelines including preprocessing, model training, and experiment tracking.
+Name: Adhiaris M Azka
+NIM: 1103220143
+Class: TK-46-G13
 
 ---
 
