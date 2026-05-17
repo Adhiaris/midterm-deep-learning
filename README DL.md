@@ -2,8 +2,6 @@
 
 A collection of three deep learning notebooks covering **Clustering**, **Regression**, and **Fraud Detection (Classification)**. Each notebook applies end-to-end deep learning pipelines including preprocessing, model training, and experiment tracking.
 
-> **Note:** This repository covers **Deep Learning models only**. Machine Learning experiments (Ridge Regression, Random Forest, KMeans) exist in a separate repository.
-
 ---
 
 ## Repository Structure
@@ -107,5 +105,3 @@ Binary classification task detecting fraudulent financial transactions using a d
    - **Deep Learning Model** section (focus of this repo)
    - Evaluation metrics and visualizations
    - MLflow experiment logging
-
-> Cells marked **`Machine Learning Model`** are excluded from this repository's scope and are available in the Machine Learning repository.
