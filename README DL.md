@@ -8,9 +8,9 @@ Class: TK-46-G13
 ## Repository Structure
 
 ```
-├── Midterm-Clustering.ipynb           # Clustering with deep learning-based representations
-├── midterm-regresin-updated.ipynb     # Regression with Neural Network (Keras + MLflow)
-└── midterm-fraud-detection.ipynb      # Fraud detection using Neural Network classifier
+├── Midterm-Clustering.ipynb           
+├── midterm-regresin-updated.ipynb     
+└── midterm-fraud-detection.ipynb      
 ```
 
 ---
