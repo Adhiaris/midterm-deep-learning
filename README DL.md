@@ -1,6 +1,6 @@
 # Deep Learning Midterm Projects
-Name: Adhiaris M Azka
-NIM: 1103220143
+Name: Adhiaris M Azka |
+NIM: 1103220143 |
 Class: TK-46-G13
 
 ---
